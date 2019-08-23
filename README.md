@@ -1,3 +1,0 @@
-PROJECTHNG
-MY HNG PROJECT WORK. HTML ONLY CV
-My completed task 2
